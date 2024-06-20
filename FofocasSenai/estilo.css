@@ -1,0 +1,58 @@
+
+*{
+    margin: 0;
+}
+
+body{
+    /*idth: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;*/
+    /* flex-direction: row;
+    position: relative;*/
+}
+
+#cabecalho{
+    /*width: 1200px;*/
+    width: 97%;
+    height: 150px;
+    background-color: white;
+    border: 25px solid rgb(250, 128, 199);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /*text-align: center;*/
+}
+
+#cabecalho1{
+    /*border: 1px solid red;*/
+    width: 33.1%;
+    height: 100%;
+    float: left;
+    /*display: flex;
+    flex-direction: row;*/
+}
+
+#cabecalho2{
+    /*border: 1px solid blue;*/
+    float: left;
+    width: 33.1%;
+    height: 100%;
+    text-align: center;
+}
+
+#cabecalho3{
+    /*border: 1px solid green;*/
+    float: left;
+    width: 33.1%;
+    height: 100%;
+}
+
+#imagemlogo{
+   width: 240px;
+   height: 135px;
+   /*position: relative;
+   left: 50px;
+   top: 7px;
+   float: left;*/
+}
